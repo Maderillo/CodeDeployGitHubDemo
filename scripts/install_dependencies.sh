@@ -1,1 +1,1 @@
-yum install -y httpd
+rm -rf /var/www/html/index.php
