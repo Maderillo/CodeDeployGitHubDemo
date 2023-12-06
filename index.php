@@ -20,7 +20,7 @@
 </head>
 <body>
     <div class="calculator">
-        <h2>Calculadora PHP WEB</h2>
+        <h2>Calculadora PHP WEB VERSION 1</h2>
         <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
             <label for="num1">Número 1:</label>
             <input type="text" name="num1" required>
