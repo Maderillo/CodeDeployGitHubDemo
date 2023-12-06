@@ -59,7 +59,7 @@
                     if ($num2 != 0) {
                         $result = $num1 / $num2;
                     } else {
-                        $result = "Error: No se puede dividir por cero.";
+                        $result = "Error: No se puede dividir por cero, cambiar numero por favor.";
                     }
                     break;
                 default:
